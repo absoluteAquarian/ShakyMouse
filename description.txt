@@ -1,0 +1,3 @@
+Have you ever been vibing and wanted your mouse to do the same?
+No?  Too bad!
+This mod makes your mouse constantly vibrate.  Mouse vibing scales with player movement speed!
